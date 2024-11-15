@@ -1,1 +1,2 @@
-this is my file used for testing purpose .
+this is my file used for testing purpose 
+how are you .
